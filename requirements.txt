@@ -1,0 +1,5 @@
+pyarrow==4.0.1
+torch==1.6.0
+tqdm==4.61.1
+transformers==3.1.0
+gdown==4.4.0
