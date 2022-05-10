@@ -28,3 +28,14 @@ See <code>./script</code>
 ./script/get_denoised_dataset.sh
 ./script/test.sh
 ```
+
+### Citation
+If you find this code helpful, please kindly cite the following paper.
+```
+@inproceedings{pan-etal-2021-context-aware,
+    title = "Automatic Noisy Label Correction for Fine-Grained Entity Typing",
+    author = "Pan, Weiran and Wei, Wei and Zhu, Feida",
+    booktitle = "Proceedings of the Thirty-first International Joint Conference on Artificial Intelligence, {IJCAI-22}",
+    year = "2022",
+}
+```
